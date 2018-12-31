@@ -1,0 +1,36 @@
+{
+  "name": "angular-customizable-calendar",
+  "version": "0.1.0",
+  "description": "A customizable Angular calendar component",
+  "keywords": [
+    "Angular",
+    "calendar"
+  ],
+  "author": {
+    "name": "twinssbc"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twinssbc/Angular-Customizable-Calendar.git"
+  },
+  "scripts": {
+    "build": "rm -rf aot && node_modules/.bin/ngc -p tsconfig-aot.json",
+    "copy_static_files": "cp -r package.json README.md LICENSE aot/"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "@angular/common": "~7.1.0",
+    "@angular/core": "~7.1.0",
+    "@angular/compiler": "~7.1.0",
+    "@angular/compiler-cli": "~7.1.0",
+    "@angular/platform-browser": "~7.1.0",
+    "rxjs": "~6.3.3",
+    "zone.js": "~0.8.26"
+  },
+  "devDependencies": {
+    "codelyzer": "~4.5.0",
+    "tslint": "~5.11.0",
+    "typescript": "~3.1.6"
+  }
+}
