@@ -2,12 +2,11 @@
 
 A customizable Angular calendar component
 
-# Sample
-
+# Demo
+https://twinssbc.github.io/Angular-Customizable-Calendar-Demo/
 
 # Dependency
 version 0.1.x is built based on Angular 7.1
-
 
 # Usage
 
