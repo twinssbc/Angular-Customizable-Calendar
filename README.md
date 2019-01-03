@@ -2,6 +2,9 @@
 
 A customizable Angular calendar component
 
+[![Version](https://img.shields.io/npm/v/angular-customizable-calendar/latest.svg)](https://www.npmjs.com/package/angular-customizable-calendar)
+[![GitHub License](https://img.shields.io/github/license/twinssbc/angular-customizable-calendar.svg)](https://raw.githubusercontent.com/twinssbc/Angular-Customizable-Calendar/master/LICENSE)
+
 # Demo
 https://twinssbc.github.io/Angular-Customizable-Calendar-Demo/
 
